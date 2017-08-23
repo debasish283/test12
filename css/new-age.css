@@ -1,0 +1,164 @@
+body {
+    font-family: 'open sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+    font-size: 14px;
+    /* we love science */
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color : #ffffff;
+    margin: -10px;
+}
+
+.buttonSubmit {
+  background-color: #1ab394;
+  color: #fff;
+  border-color: #1ab394;
+  margin-left: 275px;
+}
+.container.container-width{
+  max-width: 100%;
+}
+.elem {
+    margin-top: 20px;
+    margin-left : -30px;
+    /*padding-bottom : 30px;*/
+}
+
+#login-box {
+    margin-top: 30px;
+
+
+}
+
+.searchBar {
+    padding-left: 25%;
+}
+
+#login-box .form-group {
+  margin-bottom: 10px;
+}
+
+.secondstrap {
+    height: 3px;
+    background: #A9A9A9;
+}
+
+.thirdstrap {
+    height: 1px;
+    background: #A9A9A9;
+}
+
+.gearcolor{
+    color:#7FC8D3;
+    padding-left: 0px;
+}
+
+.chartColor {
+    color:#B9D388;
+    padding-left: 0px;
+}
+
+.userColor {
+    color:#D38482;
+    padding-left: 0px;
+}
+
+.fontType {
+  padding-bottom: 50px;
+  /*margin-top: 15px;*/
+}
+
+.spacing {
+    padding-left: 40px;
+    vertical-align: middle;
+    padding-top: 6px;
+}
+
+.gearStyle {
+    padding-left: 20px;
+    vertical-align: middle;
+    padding-top: 6px;
+}
+
+.product-logo {
+    margin-top : 2%;
+}
+
+#headerleft {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.company-logo {
+    margin-top : 3.75%;
+    margin-right: -104%
+}
+
+#login-box-content {
+    background-color: #fff;
+    -moz-box-shadow: 0 0 5px #888;
+    -webkit-box-shadow: 0 0 5px#888;
+    box-shadow: 0 0 40px #000;
+    border: 1px solid #EAEAEA
+}
+
+.header {
+    height : 90px;
+    background-color : #EAEAEA;
+}
+
+.left-div {
+
+    margin-top : 180px;
+}
+
+.margins {
+    padding-top : 6%;
+    padding-left: 9%;
+}
+
+.fontStyle {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.well {
+    padding: 0px;
+    padding-left : 1.5%;
+    padding-right : 1.5%;
+    margin-top : 7%;
+    background-color: #FFF;
+    box-shadow: 5px 5px 10px 0px;
+    padding-bottom: 1%;
+    border: 1px solid #EAEAEA;
+}
+
+#login-box form {
+    margin-bottom: 10px;
+}
+
+.footer {
+    font-size: 11px;
+    color: #aaa;
+    margin-top: 0px;
+    position: relative;
+    top: 7px;
+}
+
+.login-advanced {
+    margin-top: 10px;
+    border-top: 1px solid #ccc;
+}
+
+.login-advanced label {
+    font-size: 12px;
+    width: 150px;
+}
+
+.login-advanced label input {
+    position: relative;
+    top: -2px;
+    margin-right: 3px;
+}
